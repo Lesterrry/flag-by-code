@@ -1,7 +1,7 @@
 # flag-by-code
 Easiest way to get an emoji flag from BCP-47 language tags 
 
-[![Crate](https://img.shields.io/badge/crates.io-v0.1.0-orange)](https://crates.io/crates/flag_by_code)
+[![Crate](https://img.shields.io/badge/crates.io-v0.1.1-orange)](https://crates.io/crates/flag_by_code)
 
 Currently supported language codes:
  - fr
@@ -19,6 +19,7 @@ Currently supported language codes:
  - ta
  - it
  - jp
+ - ja
  - ko
  - nl
  - hu
